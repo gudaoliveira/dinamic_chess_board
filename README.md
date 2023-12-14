@@ -6,7 +6,7 @@
 <br>
 _(For the scripts to work properly create a copy on your own Drive folder)_
 <br>
-[Learn how to give to your account permissions for the scripts to run]()
+[Learn how to give to your account permissions for the scripts to run](https://github.com/gudaoliveira/apps_scripts_permissions)
 <br><br>
 ![how to make a copy](img/make_a_copy.png) </div>
 
