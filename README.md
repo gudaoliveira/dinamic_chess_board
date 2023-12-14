@@ -4,4 +4,4 @@
 
 <div align="center">
 
-![how to make a copy](img\make_a_copy.png) </div>
+![how to make a copy](img/make_a_copy.png) </div>
