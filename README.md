@@ -1,37 +1,35 @@
-# ♟️Dinamic Chess Board
-This was my first contact with Google Apps Script to automate functions on Google Sheets. This project generates a custom chess board based on the number of columns and rows inputted by the user
+# ♟️Tabuleiro de Xadrez Dinâmico
 
-## 🛠️Give it a try for yourself
+Este foi meu primeiro contato com o Google Apps Script para automatizar funções no Google Sheets. Este projeto gera um tabuleiro de xadrez personalizado com base no número de colunas e linhas inserido pelo usuário.
+
+## 🛠️Experimente você mesmo
 <div align="center">
   
-[Click here to access the project on Google Sheets](https://docs.google.com/spreadsheets/d/1jH_izBxsohrLAcVXECRMXOVwnOVWjh9O-QIH-nd4P4I/edit?usp=sharing)
+[Clique aqui para acessar o projeto no Google Sheets](https://docs.google.com/spreadsheets/d/1jH_izBxsohrLAcVXECRMXOVwnOVWjh9O-QIH-nd4P4I/edit?usp=sharing)
 <br>
-_(For the scripts to work properly create a copy on your own Drive folder)_
+_(Para os scripts funcionarem corretamente, crie uma cópia na sua própria pasta do Google Drive)_
 <br>
-[Learn how to give to your account permissions for the scripts to run](https://github.com/gudaoliveira/apps_scripts_permissions)
+[Aprenda como dar permissões à sua conta para a execução dos scripts](https://github.com/gudaoliveira/apps_scripts_permissions)
 <br><br>
-![how to make a copy](img/make_a_copy.png) </div>
+![como fazer uma cópia](img/make_a_copy.png) </div>
 
 ---
 
-## 📸Screenshot
+## 📸Captura de Tela
 <div align="center">
   
-![Screenshot](img/screenshot.png)</div>
+![Captura de Tela](img/screenshot.png)</div>
 
-## 💻How does it work?
+## 💻Como funciona?
 
-- Simply just change the values on the **"D2"** and **"H2"** cell for the numbers of Rows and Columns of the board, respectively and click it on the **"GENERATE"** button.
-- That's it, now just wait for the sheet to print the board
-- Note that the **GENERATE** button must have the _[start.gs](https://github.com/gudaoliveira/dinamic_chess_board/blob/main/start.gs)_ script assigned to work
+- Simplesmente altere os valores nas células **"D2"** e **"H2"** para o número de linhas e colunas do tabuleiro, respectivamente, e clique no botão **"GERAR"**.
+- Isso é tudo, agora espere a planilha imprimir o tabuleiro.
+- Observe que o botão **GERAR** deve ter o script _[start.gs](https://github.com/gudaoliveira/dinamic_chess_board/blob/main/start.gs)_ atribuído para funcionar.
 
+## 🧠Problemas Conhecidos
+Este é uma ótima peça de portifólio para mim, mas poderia ser uma ótima peça para nós! Portanto, sinta-se à vontade para contribuir de qualquer maneira que você ache que melhoraria o projeto.
 
-## 🧠Known Issues
-This is a good piece of portifolio to me, but it could be a great piece of portifolio for us! So feel free to contribute in any way that you might think i would enhance the project
+- Uma coisa que observei é que com valores grandes, a planilha pode ficar um pouco lenta, então, isso seria interessante a se melhorar.
+- Além disso, talvez adicionar mais opções de formatação seria uma boa ideia.
 
-- One thing that i notice was that with large values the sheet can be a little slow, so, that's something that would be good to improve
-- Besides that maybe adding more formatting options would be a good idea
-
-
-Made with 💞 in Brasil💚💛
-
+Feito com 💞 no Brasil💚💛
