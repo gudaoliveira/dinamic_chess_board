@@ -18,7 +18,7 @@ _(Para os scripts funcionarem corretamente, crie uma cópia na sua própria past
 ## 📸Captura de Tela
 <div align="center">
   
-![Captura de Tela](img/screenshot.png)</div>
+![image](https://github.com/gudaoliveira/dinamic_chess_board/assets/20359615/11574e02-dd93-4fb0-b8a6-9d2725ba7378)</div>
 
 ## 💻Como funciona?
 
